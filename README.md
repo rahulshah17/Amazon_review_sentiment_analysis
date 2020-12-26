@@ -9,7 +9,7 @@ It is then applied on to the x_train of Reviews columns and then transformed on 
 Using the Logistic Regression I have fit the training files to the model\
 It then provides the accuracy\
 # The next step is to find the Gloabal Promoter 
-For this i converted the Name and Output columns to lists\
+For this I converted the Name and Output columns to lists\
 with the help of counter function i found out the name that is most common\
 after knowing the most common user I checked if they have the maximum positive reviews and if so the result is being printed\
 # Output:
