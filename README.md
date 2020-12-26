@@ -26,3 +26,4 @@ after knowing the most common user I checked if they have the maximum positive r
        Accuracy = 83.52%
        The Global Promoter is: Amazon Customer With highest number of positive reviews = 63514
        Code Execution Time is: 985.1667013168335 seconds (16 Minutes 41 Seconds)
+The Global Promoter will be same with the same number of positive reviews as in both the cases only neutal and negative sentiments are varied bu the positive sentiments remain the same       
