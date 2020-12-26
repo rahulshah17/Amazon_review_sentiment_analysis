@@ -1,5 +1,5 @@
 # Amazon Review Sentiment Analysis
-This is my work on the Amazon review fashions dataset 
+This is my work on the Amazon review fashions dataset\
 I have first created a dataframe known as dataset having only columns: reviewName, reviewText, overall
 Next, I have replaced the NAN values with space
 After ignoring the rating values of rating=3, I have split the ratings into 2 cases: (Refer the last part of this README file)
