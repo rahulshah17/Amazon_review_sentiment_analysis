@@ -1,4 +1,4 @@
-# Amazon_review_sentiment_analysis
+# Amazon Review Sentiment Analysis
 This is my work on the Amazon review fashions dataset 
 I have first created a dataframe known as dataset having only columns: reviewName, reviewText, overall
 Next, I have replaced the NAN values with space
@@ -13,12 +13,12 @@ For this i converted the Name and Output columns to lists
 with the help of counter function i found out the name that is most common
 after knowing the most common user I checked if they have the maximum positive reviews and if so the result is being printed
 # Output:
-# Case 1: If Ratings is split only into Positive and Negative
+# Case 1: If Ratings are split only into Positive and Negative Sentiments
        rating>3 - Output=+1
        rating<3 - Output=-1
        Accuracy = 88.89%
        The Global Promoter is: Amazon Customer With highest number of positive reviews = 63514
-# Case 2: If Ratings is split into Positive,Negative and Neutral
+# Case 2: If Ratings are split into Positive,Negative and Neutral Sentiments
        rating>3 - Output=+1
        rating=3 - Output=0
        rating<3 - Output=-1
