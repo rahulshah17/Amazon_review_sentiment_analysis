@@ -21,7 +21,7 @@ after knowing the most common user I checked if they have the maximum positive r
        Code Execution Time is: 494.9836037158966 seconds (8 Minutes 25 Seconds)
 # Case 2: If Ratings are split into Positive,Negative and Neutral Sentiments
        rating>3 - Output=+1
-       rating=3 - Output=0
+       rating=3 - Output= 0
        rating<3 - Output=-1
        Accuracy = 83.52%
        The Global Promoter is: Amazon Customer With highest number of positive reviews = 63514
